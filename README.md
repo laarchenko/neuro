@@ -13,10 +13,3 @@ Install the required packages using:
 ```bash
 pip install torch tqdm scikit-learn
 ```
-
-## Run
-
-```bash
-python main.py
-python serving.py
-```
